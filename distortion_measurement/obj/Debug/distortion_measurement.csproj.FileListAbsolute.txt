@@ -1,0 +1,13 @@
+C:\Users\QA\Desktop\使用者介面開發資料\distortion_measurement\distortion_measurement\bin\Debug\distortion_measurement.exe.config
+C:\Users\QA\Desktop\使用者介面開發資料\distortion_measurement\distortion_measurement\obj\Debug\distortion_measurement.csprojResolveAssemblyReference.cache
+C:\Users\QA\Desktop\使用者介面開發資料\distortion_measurement\distortion_measurement\obj\Debug\distortion_measurement.Form1.resources
+C:\Users\QA\Desktop\使用者介面開發資料\distortion_measurement\distortion_measurement\obj\Debug\distortion_measurement.Properties.Resources.resources
+C:\Users\QA\Desktop\使用者介面開發資料\distortion_measurement\distortion_measurement\obj\Debug\distortion_measurement.csproj.GenerateResource.Cache
+C:\Users\QA\Desktop\使用者介面開發資料\distortion_measurement\distortion_measurement\obj\Debug\distortion_measurement.exe.licenses
+C:\Users\QA\Desktop\使用者介面開發資料\distortion_measurement\distortion_measurement\bin\Debug\distortion_measurement.exe
+C:\Users\QA\Desktop\使用者介面開發資料\distortion_measurement\distortion_measurement\bin\Debug\distortion_measurement.pdb
+C:\Users\QA\Desktop\使用者介面開發資料\distortion_measurement\distortion_measurement\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\QA\Desktop\使用者介面開發資料\distortion_measurement\distortion_measurement\bin\Debug\NationalInstruments.UI.Styles3D.dll
+C:\Users\QA\Desktop\使用者介面開發資料\distortion_measurement\distortion_measurement\bin\Debug\NationalInstruments.DAQmx.xml
+C:\Users\QA\Desktop\使用者介面開發資料\distortion_measurement\distortion_measurement\obj\Debug\distortion_measurement.exe
+C:\Users\QA\Desktop\使用者介面開發資料\distortion_measurement\distortion_measurement\obj\Debug\distortion_measurement.pdb
